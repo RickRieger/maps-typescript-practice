@@ -1,2 +1,3 @@
 # maps-typescript-practice
-An application to become familiar with using typescript
+
+This is an application built to become familiar with using typescript.
