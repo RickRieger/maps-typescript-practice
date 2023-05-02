@@ -1,1 +1,1 @@
-{"mappings":"AAAA,QAAQ,GAAG,CAAC","sources":["src/index.ts"],"sourcesContent":["console.log(\"hello world\");\n"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
+{"mappings":"AAAA,iCAAiC;AAEjC,2BAA2B;AAE3B,QAAQ,GAAG,CAAC","sources":["src/index.ts"],"sourcesContent":["// import { User } from \"./User\";\n\n// const user = new User();\n\nconsole.log(\"===>\");\n"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}
