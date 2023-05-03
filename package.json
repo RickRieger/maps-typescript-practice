@@ -1,0 +1,23 @@
+{
+  "name": "maps-typescript-practice",
+  "version": "1.0.0",
+  "description": "Practicing typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RickRieger/maps-typescript-practice.git"
+  },
+  "author": "Rick Rieger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RickRieger/maps-typescript-practice/issues"
+  },
+  "homepage": "https://github.com/RickRieger/maps-typescript-practice#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.52.6"
+  }
+}
